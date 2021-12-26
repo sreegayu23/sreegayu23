@@ -1,5 +1,5 @@
-- 👋 Hi Guyss ! I’m This is Sree Gayathri here .
--  A Data Science Engineer having experience exploring , analysing real world data , handling machine learning algorithms for training and deploying machine learning models .
+- 👋 Hi Guyss ! I’m  Sree Gayathri here .
+- A Research Engineer in the Smart Manufacturing sector currently working in Singapore  with 6 years of extensive background in engineering principles, project leadership, and the effective application of research thriving in deadline-driven agile work environment.Well -versed in handling numerous programming languages primarily Python, R, Swift, Objective- C,C#,Java etc. Adept in working with engineers and project managers at multiple levels to utilize research data effectively and achieve optimal results.
 -A Post Grad in Data Science and Business Analytics. 
 
  -  Strong proficiency in programming languages like Python ,R, , MATLAB ,Scala, Tensorflow , PyTorch, , C#,Java, Objective-C, Swift .
